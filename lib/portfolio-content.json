@@ -1,0 +1,259 @@
+{
+  "biography": "Hi, I’m Sava Belinsky. \nI’m fullstack designer/artist from Saint-Petersburg, Russia. My purpose is creating creative, fancy projects from scratch or leading existing buisnesses to",
+  "skills": [
+    "Creative Direction",
+    "Concept Development",
+    "Digital Engineering",
+    "Experimental vision",
+    "Graphic Design",
+    "Visual Identity",
+    "Typography",
+    "UI / UX Design",
+    "Motion Design",
+    "Print Design",
+    "Art Direction",
+    "Experimental vision"
+  ],
+  "materials": [
+    "TYPE",
+    "IMAGE",
+    "CODE",
+    "CLOTH",
+    "PAPER",
+    "PIXELS",
+    "MOTION",
+    "OBJECTS",
+    "SPACE"
+  ],
+  "approachTitle": "I DON'T JUST MAKE IT LOOK GOOD.",
+  "approach": [
+    "I like working somewhere between design, technology and art.",
+    "Sometimes the project starts with a problem.",
+    "Sometimes with an image.",
+    "Sometimes with absolutely nothing.",
+    "The process is always different."
+  ],
+  "caption": "*neurons inside my brain during doing my work",
+  "footerHeadline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "footerBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. ",
+  "intro": "I found ways to make creative design work with real problems.\nEvery project starts somewhere different — a thought, a limitation, a strange reference, a business need. I turn these starting points into identities, digital experiences, objects and systems that have their own character",
+  "sketchIntro": "I found a way to turn random thoughts into things worth keeping on skin.\nSome started as meaningless lines. Some came from symbols, objects, images or ideas I couldn’t get out of my head. These are the sketches that made it from my brain onto paper — and sometimes, onto someone’s skin.",
+  "projectReceipt": [
+    "================================ ",
+    "STUDIO: LANIFY / ORDER #0017 ",
+    "CLIENT: SMU-17 (Kirovsk)",
+    "================================",
+    "Brand-forward UI .......... 1 pc",
+    "Red #8B0000, used sparingly",
+    "Condensed headlines ....... 1 set",
+    "Industrial-grade hierarchy",
+    "Service cards (x8) ........ 8 pc",
+    "Admin login ............... 1 pc",
+    "Sleepless nights ......... -3 h",
+    "--------------------------------",
+    "SUBTOTAL: trust",
+    "TAX: one (1) pixel of doubt",
+    "TOTAL: ONE SITE THAT BUILDS",
+    "================================ ",
+    "NO REFUNDS ON GOOD TASTE",
+    "---------------------------------"
+  ],
+  "projects": [
+    {
+      "slug": "project-1",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-2",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-3",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-4",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-5",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-6",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-7",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-8",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-9",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-10",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    },
+    {
+      "slug": "project-11",
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "year": "2026"
+    }
+  ],
+  "sketches": [
+    {
+      "slug": "thorn-heart",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-2",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-3",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-4",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-5",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-6",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-7",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-8",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-9",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-10",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    },
+    {
+      "slug": "thorn-heart-11",
+      "number": "01",
+      "title": "Thorn heart",
+      "year": "2026"
+    }
+  ],
+  "workflow": [
+    {
+      "number": "01",
+      "title": "DISCOVER",
+      "items": [
+        "listen",
+        "research",
+        "understand"
+      ]
+    },
+    {
+      "number": "02",
+      "title": "DEFINE",
+      "items": [
+        "problem",
+        "direction",
+        "scope"
+      ]
+    },
+    {
+      "number": "03",
+      "title": "CONCEPT",
+      "items": [
+        "ideas",
+        "references",
+        "experiments"
+      ]
+    },
+    {
+      "number": "04",
+      "title": "DESIGN",
+      "items": [
+        "type",
+        "image",
+        "layout",
+        "motion",
+        "interaction"
+      ]
+    },
+    {
+      "number": "05",
+      "title": "BUILD",
+      "items": [
+        "design --> code",
+        "prototype",
+        "frontend",
+        "interaction",
+        "animation",
+        "systems"
+      ]
+    },
+    {
+      "number": "06",
+      "title": "DELIVER",
+      "items": [
+        "launch",
+        "handoff",
+        "support",
+        "evolution"
+      ]
+    }
+  ]
+}
