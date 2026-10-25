@@ -1,49 +1,45 @@
-# LANIFY — Sava Belinsky
+# LANIFY Portfolio
 
-Next.js App Router, React, TypeScript и обычный CSS. Проект: `/Users/sava/Desktop/lanify`.
+Personal portfolio built with Next.js, React and TypeScript.
 
-```sh
+## Run locally
+
+```bash
 npm ci
 npm run dev -- --port 3000
+```
+
+## Production build
+
+```bash
 npm run build
 ```
 
-Сборка экспортирует статический сайт в `out/`. Действующие маршруты сохранены, у всех 11 карточек эскизов есть отдельные страницы.
+This project uses static export for GitHub Pages.
 
-## Компонентная вёрстка
+## GitHub Pages
 
-- `app/layout.tsx`: общий хедер, оболочка шириной **до 1440 px**, общий футер.
-- `components/site-chrome.tsx`: анимация раскрытия LANIFY / PORTFOLIO на desktop и tablet. На телефоне обычная навигация без шторки; reduced motion отключает движение.
-- `components/portfolio/home.tsx`: Hero, Disciplines, Barcode, Materials, Approach, Workflow и выбранные проекты.
-- `components/portfolio/gallery.tsx`: списки, фильтры, просмотр эскиза и мобильная страница эскиза.
-- `components/portfolio/project-card.tsx`: общая карточка проекта.
-- `components/portfolio/project-detail.tsx`: чек проекта и правая панель.
-- `components/portfolio/site-footer.tsx`: единый контактный блок и обрезанная надпись PORTFOLIO в конце страницы.
-- `components/tag.tsx`, `components/portfolio/primitives.tsx`: теги, разделители и декоративные линии.
-- `lib/portfolio-content.json`: семантические тексты и карточки из `/Users/sava/Desktop/portfolio.fig`. Нет координат элементов.
-- `lib/portfolio.ts`: типы и ссылки на исходные изображения / сохранённые видео.
+Repository is configured for Pages deployment via GitHub Actions.
+The site is served from:
 
-Секции находятся в обычном потоке. Колонки реализованы CSS Grid, списки тегов — Flex с переносом. Высота зависит от текста; размеры шрифтов фиксированы внутри адаптивных диапазонов. Основные переходы: 1050 и 650 px; блок материалов становится одноколоночным ниже 701 px, просмотр эскиза переключается на отдельную страницу на этой же границе.
+https://kefirchick13.github.io/lanify_portfolio/
 
-`position: absolute` используется только для декора, обрезки картинки штрихкода и управляющей кнопки поверх эскиза. Хедер закреплён, панель эскиза — sticky. Нет координатного рендерера, `--u`, `ResizeObserver` или измерений текста для раскладки.
+## Project structure
 
-Текстура первого экрана и белые слова занимают одну колонку Grid, поэтому их границы остаются совмещёнными. Штрихкод идёт сразу за портретной текстурой с отрицательным отступом −24 px / −16 px. Мобильный макет не содержит этого портрета и штрихкода.
+- `app/` — App Router pages and layout
+- `components/` — UI blocks and portfolio components
+- `lib/portfolio-content.json` — portfolio text and sketch metadata
+- `public/` — static images and assets
+- `next.config.ts` — static export and Pages config
 
-Карточки без изображения остаются серыми заглушками, как в Figma. Повторяющиеся названия, номера, Lorem Ipsum и повторный Experimental vision сохранены. Годы фильтра — 2026 / 2025 / 2024; все исходные карточки относятся к 2026, другие годы не получают вымышленные работы. Заголовки карточек показаны прописными буквами по ранее согласованному требованию.
+## Notes
 
-Контакты: Telegram @lanify_rn, Instagram lanify__rn, kefrciksekov@gmail.com, behance.net.
+- The portfolio is intentionally content-driven.
+- Sketch entries are stored in JSON and rendered dynamically.
+- Asset paths are configured for the GitHub Pages subpath.
 
-## Исходник и откат
+## Contact
 
-Контрольный исходник: `/Users/sava/Desktop/portfolio.fig`, переданный 24 октября 2026.
-
-Резервная копия исходников до перехода на компоненты:
-`/Users/sava/Documents/Codex/2026-10-15/vy/work/component-migration/before-migration.tar.gz`.
-
-В ней сохранены старый координатный рендерер и его данные. Из рабочего приложения они удалены. Исходные медиа в `public/` оставлены на месте.
-
-## Проверка
-
-`npm run build` проверяет TypeScript и все статические маршруты. Дополнительно проверяются текст и ссылки экспортированных HTML, доступность локальных ассетов и отсутствие старого рендерера в сборке.
-
-Визуальное совпадение в браузере пока не подтверждено: ранее сохранённая настройка запрещала агенту доступ к localhost. Статические проверки не заменяют визуальную проверку адаптаций.
+- Telegram: @lanify_rn
+- Instagram: lanify__rn
+- Email: kefrciksekov@gmail.com
