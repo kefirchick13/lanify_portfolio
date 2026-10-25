@@ -128,70 +128,124 @@
   ],
   "sketches": [
     {
-      "slug": "thorn-heart",
+      "slug": "w1ng3d_3mp1r3_0f_7h3_5kull",
       "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "title": "W1NG3D_3MP1R3_0F_7H3_5KULL",
+      "year": "2026",
+      "series": "crown of ash",
+      "medium": "graphite on paper",
+      "description": "A mythic throne of bone, wings and ritual geometry built like a cathedral for a fallen king.",
+      "palette": "monochrome ritual",
+      "tags": ["ornament", "myth", "skull", "dragon"],
+      "image": "/sketches/w1ng3d_3mp1r3_0f_7h3_5kull.jpg"
     },
     {
-      "slug": "thorn-heart-2",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "dr4g0n_0f_7h3_4sh_crown",
+      "number": "02",
+      "title": "DR4G0N_0F_7H3_4SH_CR0WN",
+      "year": "2026",
+      "series": "black fire",
+      "medium": "ink study",
+      "description": "A dragon-like emblem lifted into a ceremonial frame, where sacred geometry collapses into motion.",
+      "palette": "charcoal / smoke",
+      "tags": ["dragon", "crown", "ceremonial", "linework"],
+      "image": "/sketches/dr4g0n_0f_7h3_4sh_crown.jpg"
     },
     {
-      "slug": "thorn-heart-3",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "m4sk_0f_7h3_5un_0n_7h3_7r33",
+      "number": "03",
+      "title": "M4SK_0F_7H3_5UN_0N_7H3_7R33",
+      "year": "2026",
+      "series": "solar fracture",
+      "medium": "pencil and ink",
+      "description": "A solar mask wrapped in baroque motion, as if a divine face were trying to break through the bark of time.",
+      "palette": "stone / eclipse",
+      "tags": ["mask", "solar", "ritual", "ornament"],
+      "image": "/sketches/m4sk_0f_7h3_5un_0n_7h3_7r33.jpg"
     },
     {
-      "slug": "thorn-heart-4",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "s4nctum_0f_7h3_3n7w1n3d_5p1r1t",
+      "number": "04",
+      "title": "S4NCTUM_0F_7H3_3N7W1N3D_5P1R1T",
+      "year": "2026",
+      "series": "mortal bloom",
+      "medium": "ink draft",
+      "description": "Dense floral ornament wraps a haunted figure and turns aggression into a kind of devotional chainmail.",
+      "palette": "graphite / veil",
+      "tags": ["boon", "spirit", "floral", "baroque"],
+      "image": "/sketches/s4nctum_0f_7h3_3n7w1n3d_5p1r1t.jpg"
     },
     {
-      "slug": "thorn-heart-5",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "7h3_3v1l_0f_7h3_5w0rd",
+      "number": "05",
+      "title": "7H3_3V1L_0F_7H3_5W0RD",
+      "year": "2026",
+      "series": "iron scripture",
+      "medium": "line drawing",
+      "description": "An oversized emblem suspended between god and beast, where a spear and a serpent create a cursed alphabet.",
+      "palette": "ink black",
+      "tags": ["scripture", "spear", "beast", "arcane"],
+      "image": "/sketches/7h3_3v1l_0f_7h3_5w0rd.jpg"
     },
     {
-      "slug": "thorn-heart-6",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "g0ld3n_3y3_0f_7h3_7hr34d",
+      "number": "06",
+      "title": "G0LD3N_3Y3_0F_7H3_7HR34D",
+      "year": "2026",
+      "series": "interwoven omen",
+      "medium": "pencil and wash",
+      "description": "One eye, a thousand curls, and an unresolved knot of motion spiralling into a civic myth.",
+      "palette": "soft silver",
+      "tags": ["eye", "thread", "dream", "fable"],
+      "image": "/sketches/g0ld3n_3y3_0f_7h3_7hr34d.jpg"
     },
     {
-      "slug": "thorn-heart-7",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "4n71_0f_7h3_5l0w_7h1r57",
+      "number": "07",
+      "title": "4N71_0F_7H3_5L0W_7H1R57",
+      "year": "2026",
+      "series": "tide under skin",
+      "medium": "ink flourish",
+      "description": "A coiling, layered motif of serpents and crowns that reads like a secret memory tattooed into air.",
+      "palette": "smoky graphite",
+      "tags": ["snake", "coils", "memory", "tide"],
+      "image": "/sketches/4n71_0f_7h3_5l0w_7h1r57.jpg"
     },
     {
-      "slug": "thorn-heart-8",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "m0n4rch_0f_7h3_1n_5id3",
+      "number": "08",
+      "title": "M0N4RCH_0F_7H3_1N_5ID3",
+      "year": "2026",
+      "series": "hollow throne",
+      "medium": "ink on cotton paper",
+      "description": "A sovereign figure caught between ritual architecture and internal collapse, all head and halo and wound.",
+      "palette": "grey veil",
+      "tags": ["throne", "sovereign", "inner", "monolith"],
+      "image": "/sketches/m0n4rch_0f_7h3_1n_5id3.jpg"
     },
     {
-      "slug": "thorn-heart-9",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "7h3_5h4d0w_0f_7h3_4n7h1l4t0r",
+      "number": "09",
+      "title": "7H3_5H4D0W_0F_7H3_4N7H1L4T0R",
+      "year": "2026",
+      "series": "ruin echo",
+      "medium": "graphite and wash",
+      "description": "A spectral figure carved into the negative space between ritual bells and a broken horizon.",
+      "palette": "ash / bone",
+      "tags": ["shadow", "annihilator", "apocalypse", "ritual"],
+      "image": "/sketches/7h3_5h4d0w_0f_7h3_4n7h1l4t0r.jpg"
     },
     {
-      "slug": "thorn-heart-10",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
-    },
-    {
-      "slug": "thorn-heart-11",
-      "number": "01",
-      "title": "Thorn heart",
-      "year": "2026"
+      "slug": "c0r3_0f_7h3_3ndl3ss_4n1m4l",
+      "number": "10",
+      "title": "C0R3_0F_7H3_3NDL35S_4N1M4L",
+      "year": "2026",
+      "series": "last breath",
+      "medium": "ink on paper",
+      "description": "A beast of impossible endurance, threaded through an ornate frame like a myth surviving its own extinction.",
+      "palette": "deep graphite",
+      "tags": ["beast", "endless", "myth", "ornament"],
+      "image": "/sketches/c0r3_0f_7h3_3ndl3ss_4n1m4l.jpg"
     }
   ],
   "workflow": [
