@@ -128,16 +128,16 @@
   ],
   "sketches": [
     {
-      "slug": "w1ng3d_3mp1r3_0f_7h3_5kull",
+      "slug": "3mp1r3_0f_7h3_5kull",
       "number": "01",
-      "title": "W1NG3D_3MP1R3_0F_7H3_5KULL",
+      "title": "3MP1R3_0F_7H3_5KULL",
       "year": "2026",
       "series": "crown of ash",
       "medium": "graphite on paper",
       "description": "A mythic throne of bone, wings and ritual geometry built like a cathedral for a fallen king.",
       "palette": "monochrome ritual",
       "tags": ["ornament", "myth", "skull", "dragon"],
-      "image": "/sketches/w1ng3d_3mp1r3_0f_7h3_5kull.jpg"
+      "image": "/sketches/3mp1r3_0f_7h3_5kull.jpg"
     },
     {
       "slug": "dr4g0n_0f_7h3_4sh_crown",
@@ -164,16 +164,16 @@
       "image": "/sketches/m4sk_0f_7h3_5un_0n_7h3_7r33.jpg"
     },
     {
-      "slug": "s4nctum_0f_7h3_3n7w1n3d_5p1r1t",
+      "slug": "5anctum_0f_7h3_3n7w1n3d_5p1r1t",
       "number": "04",
-      "title": "S4NCTUM_0F_7H3_3N7W1N3D_5P1R1T",
+      "title": "5ANCTUM_0F_7H3_3N7W1N3D_5P1R1T",
       "year": "2026",
       "series": "mortal bloom",
       "medium": "ink draft",
       "description": "Dense floral ornament wraps a haunted figure and turns aggression into a kind of devotional chainmail.",
       "palette": "graphite / veil",
       "tags": ["boon", "spirit", "floral", "baroque"],
-      "image": "/sketches/s4nctum_0f_7h3_3n7w1n3d_5p1r1t.jpg"
+      "image": "/sketches/5anctum_0f_7h3_3n7w1n3d_5p1r1t.jpg"
     },
     {
       "slug": "7h3_3v1l_0f_7h3_5w0rd",
@@ -202,7 +202,7 @@
     {
       "slug": "4n71_0f_7h3_5l0w_7h1r57",
       "number": "07",
-      "title": "4N71_0F_7H3_5L0W_7H1R57",
+      "title": "4N7I_0F_7H3_5L0W_7H1R57",
       "year": "2026",
       "series": "tide under skin",
       "medium": "ink flourish",
@@ -215,7 +215,7 @@
       "slug": "m0n4rch_0f_7h3_1n_5id3",
       "number": "08",
       "title": "M0N4RCH_0F_7H3_1N_5ID3",
-      "year": "2026",
+      "year": "2025",
       "series": "hollow throne",
       "medium": "ink on cotton paper",
       "description": "A sovereign figure caught between ritual architecture and internal collapse, all head and halo and wound.",
@@ -227,7 +227,7 @@
       "slug": "7h3_5h4d0w_0f_7h3_4n7h1l4t0r",
       "number": "09",
       "title": "7H3_5H4D0W_0F_7H3_4N7H1L4T0R",
-      "year": "2026",
+      "year": "2025",
       "series": "ruin echo",
       "medium": "graphite and wash",
       "description": "A spectral figure carved into the negative space between ritual bells and a broken horizon.",
@@ -239,7 +239,7 @@
       "slug": "c0r3_0f_7h3_3ndl3ss_4n1m4l",
       "number": "10",
       "title": "C0R3_0F_7H3_3NDL35S_4N1M4L",
-      "year": "2026",
+      "year": "2025",
       "series": "last breath",
       "medium": "ink on paper",
       "description": "A beast of impossible endurance, threaded through an ornate frame like a myth surviving its own extinction.",
