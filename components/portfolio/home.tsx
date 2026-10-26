@@ -1,6 +1,7 @@
 import {assets,content} from '@/lib/portfolio';
 import {Tag} from '@/components/tag';
 import {MaterialsGuide,ApproachGuide,WorkflowGuide,Ornament,SectionHeading} from './primitives';
+import {LoopVideo} from './loop-video';
 import {ProjectCard} from './project-card';
 
 function Biography(){return <h1 className="biography"><strong>Hi, I’m Sava Belinsky.</strong><br/>I’m fullstack <strong>designer/artist</strong> from Saint-Petersburg, <strong>Russia.</strong> My <strong>purpose</strong> is creating creative, fancy projects from scratch or leading existing buisnesses to </h1>}
@@ -24,13 +25,13 @@ function Disciplines(){return <section className="disciplines" aria-label="Skill
  </section>}
 function Approach(){return <section className="approach" aria-labelledby="approach-title">
  <div className="approach-copy"><h2 id="approach-title">{content.approachTitle}</h2><div className="approach-statements">{content.approach.map(text=><p key={text}>{text}</p>)}</div><p className="approach-total">0.00</p></div>
- <div className="approach-visual"><figure><video poster={assets.studio} autoPlay muted loop playsInline preload="none"><source src={assets.studioVideo}/><img src={assets.studio} alt="" width="745" height="446"/></video><figcaption>{content.caption}</figcaption></figure><ApproachGuide/></div>
+ <div className="approach-visual"><figure><LoopVideo src={assets.studioVideo} poster={assets.studio}/><figcaption>{content.caption}</figcaption></figure><ApproachGuide/></div>
  </section>}
 function WorkflowRow({start,end}:{start:number;end:number}){return <div className={`workflow-row workflow-row-${start===0?'first':'last'}`}>{content.workflow.slice(start,end).map(step=><section className="workflow-step" key={step.number}><h3><span>{step.number}</span> {step.title}</h3><ul>{step.items.map(item=><li key={item}>{item}</li>)}</ul></section>)}</div>}
 function Workflow(){return <section className="workflow" aria-labelledby="workflow-title">
  <SectionHeading><span id="workflow-title">WORKFLOW</span></SectionHeading>
  <WorkflowRow start={0} end={3}/>
- <div className="workflow-interlude"><WorkflowGuide/><video poster={assets.process} autoPlay muted loop playsInline preload="none"><source src={assets.processVideo} type="video/mp4"/><img src={assets.process} alt="" width="622" height="223"/></video></div>
+ <div className="workflow-interlude"><WorkflowGuide/><LoopVideo src={assets.processVideo} poster={assets.process}/></div>
  <WorkflowRow start={3} end={6}/><Ornament/>
  </section>}
 export function HomeContent(){return <>
